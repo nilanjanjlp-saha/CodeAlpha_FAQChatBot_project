@@ -1,8 +1,8 @@
-🤖 CodeAlpha Internship - Task 2
+##🤖 CodeAlpha Internship - Task 2
 
-WBJEE FAQ Chatbot
+##WBJEE FAQ Chatbot
 
-📌 Internship Info
+#📌 Internship Info
 
 Domain: Artificial Intelligence
 
@@ -14,7 +14,7 @@ Internship Provider: CodeAlpha
 
 ---
 
-🚀 Project Overview
+#🚀 Project Overview
 
 This project is a WBJEE FAQ Chatbot developed as part of my CodeAlpha AI Internship.
 It is designed to answer frequently asked questions about the West Bengal Joint Entrance Examination (WBJEE).
@@ -24,7 +24,7 @@ The chatbot works in the terminal/console and uses Python’s built-in libraries
 
 ---
 
-🛠 Features
+#🛠 Features
 
 📖 Predefined FAQ database focused on WBJEE
 
@@ -40,7 +40,7 @@ The chatbot works in the terminal/console and uses Python’s built-in libraries
 
 ---
 
-📂 Project Structure
+#📂 Project Structure
 
 WBJEE-FAQ-Chatbot/
 │── main.py        # Main chatbot code
@@ -50,7 +50,7 @@ WBJEE-FAQ-Chatbot/
 
 ---
 
-▶️ How to Run
+#▶️ How to Run
 
 1. Clone the Repository
 
@@ -58,12 +58,12 @@ git clone https://github.com/your-username/WBJEE-FAQ-Chatbot.git
 cd WBJEE-FAQ-Chatbot
 
 
-2. Run the Chatbot
+#2. Run the Chatbot
 
 python main.py
 
 
-3. Ask Questions
+#3. Ask Questions
 
 Example:
 
@@ -72,7 +72,7 @@ Bot: WBJEE (West Bengal Joint Entrance Examination) is a state-level entrance ex
 
 
 
-4. Exit Anytime
+#4. Exit Anytime
 
 You: exit
 Bot: Thanks for using the WBJEE FAQ Chatbot. Goodbye!
@@ -82,7 +82,7 @@ Bot: Thanks for using the WBJEE FAQ Chatbot. Goodbye!
 
 ---
 
-📚 Example Questions You Can Ask
+##📚 Example Questions You Can Ask
 
 What is WBJEE?
 
@@ -104,7 +104,7 @@ When is WBJEE conducted?
 
 ---
 
-📜 License
+##📜 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 
